@@ -6,7 +6,9 @@ class publication
 {
 private:
     /* data */
-    
+    string name;
+    int refNo;
+    bool isOnLoan;
 public:
     publication(/* args */);
     ~publication();
