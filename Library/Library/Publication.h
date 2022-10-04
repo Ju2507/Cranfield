@@ -7,8 +7,6 @@ using namespace std;
 class Publication
 {
 
-<<<<<<< Updated upstream
-=======
 private:
 	string name;
 	int refNo;
@@ -30,9 +28,3 @@ public :
 
 };
 
-void borrowPublication() {
-
-	if ((*this)isOnLoan)
-
->>>>>>> Stashed changes
-}
